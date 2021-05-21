@@ -5,4 +5,4 @@
 <h5>安装</h5>
 npm install clcone<br>
 <h5>使用</h5>
-clcone(被拷贝对象)
+clcone(被拷贝对象)<br>
