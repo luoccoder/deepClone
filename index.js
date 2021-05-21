@@ -13,7 +13,12 @@ function lcone(obj){
       newObj[value]=currentValue;
     }else if(currentValue instanceof Array){
       newObj[value]=[...currentValue]
-    }else{
+    }else if(currentValue instanceof Set){
+      newObj[value]=new Set([...currentValue])
+    }else if(currentValue instanceof Map){
+      newObj[value]=new Map([...currentValue])
+    }
+    else{
       newObj[value]=lcone(currentValue)
     }
   })
