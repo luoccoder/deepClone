@@ -1,0 +1,22 @@
+{
+  "name": "clcone",
+  "version": "1.0.0",
+  "description": "deep clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoccoder/deeplcone.git"
+  },
+  "keywords": [
+    "plugin"
+  ],
+  "author": "luoccoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoccoder/deeplcone/issues"
+  },
+  "homepage": "https://github.com/luoccoder/deeplcone#readme"
+}
