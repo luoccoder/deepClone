@@ -1,4 +1,4 @@
-# deeplcone
+# deepClone
 <h4>对一个对象实现彻底深拷贝;</h4>
 <h4>练习npm包发布和递归;</h4>
 
